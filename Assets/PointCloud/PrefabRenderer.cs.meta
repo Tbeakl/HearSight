@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a4679b354ab2b4fe7befa2d4d83a817c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundCubePrefab: {fileID: 634143129774966521, guid: cc2e47558eb846b4b9f20252945cd7e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
